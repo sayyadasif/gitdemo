@@ -1,0 +1,9 @@
+pid,pname,p_desc,amt
+1,mobile,samsung,20000
+2,laptop,macbook,225000
+3,watch,smart,8000
+4,pendrive,sundisk,9000
+5,pendrive,sundisk,9000
+6,pendrive,sundisk,9000
+7,mobile,samsung,20000
+
